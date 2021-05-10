@@ -1,0 +1,8 @@
+{
+  "name": "Work'out",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fe2b251c"
+}
